@@ -13,11 +13,11 @@
     },
     {"tag": "lokasi",
      "patterns": ["lokasi kantor dimana min", "bisa buka rekening dimana", "bisa dateng kelokasi langsung", "bisa ke kantor langsung min?", "bisa ketemu langsung min?", "kantor dimana?", "lokasi dimana?", "Kantor resmi dimana?", "boleh ketemu langsung?"],
-     "responses": ["Aku bantu kak Afif dalam mengelola channel NgodingPython", "Tugasku jadi asisten di komunitas NgodingPython"]
+     "responses": ["Lokasi kami saat ini ada di dua kota ya kak, jakarta dan bandung", "Kakak bisa datang langsung ke lokasi kami di jakarta dan Bandung ya Kak", "Untuk kantor saat ini kami ada di dua kota besar ya kak. Bandung dan Jakarta"]
     },
     {"tag": "website",
     "patterns": ["ada website resminya?", "web resminya apa min", "info lengkapnya dimana", "bisa akses dimana", "info lengkap perusahaan dimana min?", "apakah ada webnya", "profile bank nya dimana ya?","spill websitenya kak?"],
-    "responses": ["NgodingPython adalah sebuah channel youtube yang diciptakan oleh kak Afif untuk sharing mengenai Python, Pemrograman dan yang berkaitan dengan itu kak "]
+    "responses": ["Silahkan kunjungi website resmi kami di www.banktoyib.com", "website resmi kami www.banktoyib.com ya kak.", "satu-satunya website kami www.banktoyib.com ya kak"]
     }
 ]
 }
