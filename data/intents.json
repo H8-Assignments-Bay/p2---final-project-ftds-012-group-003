@@ -61,7 +61,7 @@
 				"Hai, selamat pagi bot",
 				"Hei, selamat siang bot",
 				"Halo, selamat sore bot",
-				"Hey, selamat malam bot"
+				"Hey, selamat malam bot",
 				"Hai, selamat pagi CHASS",
 				"Hei, selamat siang CHASS",
 				"Halo, selamat sore CHASS",
@@ -186,7 +186,7 @@
     },
 	{
 	"tag":"daftar akun",
-	"patterns":["Daftar akun."
+	"patterns":["Daftar akun.",
 				"Daftar akun?",
 				"Daftar akun bank?",
 				"Daftar akun gimana?",
@@ -200,7 +200,7 @@
 				"Mau daftar akun bank dong?",
 				"Cara daftar gimana?",
 				"Cara daftar rekening gimana?",
-				"Cara daftar rekening bank gimana?"
+				"Cara daftar rekening bank gimana?",
 				"Bagaimana daftarnya?",
 				"Bagaimana daftar akun?",
 				"Bagaimana daftar akun bank CHASS?",
@@ -229,7 +229,7 @@
 				"Jangan khawatir, verifikasi anda akan diproses maksimal 30 menit kok!"]
 	},
 	{
-	"tag":"unduh aplikasi"
+	"tag":"unduh aplikasi",
 	"patterns":["Download aplikasi?",
 				"Cara download aplikasi?",
 				"CHASS gimana cara download aplikasi?",
@@ -242,12 +242,12 @@
 				"Unduh?",
 				"Unduh aplikasi.",
 				"Download unduh",
-				"Download dimana?"
+				"Download dimana?",
 				"gimana cara downloadnya?",
 				"ada appnya",
 				"aplikasi androidnya ada min",
 				"Apakah ada plikasinya", 
-				"ada di playstore min"
+				"ada di playstore min",
 				"appnya min", "ada di appstore min",
 				"Ada aplikasinya min",
 				"Unduhin dong aplikasinya min",
