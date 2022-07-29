@@ -249,4 +249,30 @@
 				"Aplikasi kami selalu update untuk inovasi terbaru, jangan khawatir, size aplikasi kami sedikit kok cocok deh untuk semua pengguna gadget."]
 	},
 	{
+	"tag": "aplikasi",
+     "patterns": ["Download dimana?","gimana cara downloadnya?", "Apakah ada plikasinya", "Ada aplikasinya min","ada appnya", "aplikasi androidnya ada min", "appnya min", "ada di appstore min", "ada di playstore min"],
+     "responses": ["Aplikasi bisa di download di play store atau app store ya kak dengan nama aplikasinya bank thoyib, atau bisa klik link ini https:/www.banktoyib.com/aplikasi", "Aplikasi sudah tersedia ya kak. Bisa klik link https:/www.banktoyib.com/aplikasi untuk download aplikasinya"]
+    },
+    {
+		"tag": "biaya",
+     "patterns": ["ada biaya adminnya, min", "biaya bulananya berapa, min", "berapa biayanya", "mahal ga min biaya bulanannya", "murah kan min biaya bulananya?", "mahal ga ya biayanya", "biaya admin", "biaya bulanan"],
+     "responses": ["Biaya adminnya tergantung jenis atmnya ya kak. Untuk silver 15.000/bulan dan untuk atm gold biaya adminnya 30.000/bulan", "Kamu bisa milih nih. Untuk biaya bulanan member silver 15.000/bulan ya kak. Kalau mau yag gold biayanya 30.000/bulan"]
+    },
+    {
+		"tag": "atm",
+     "patterns": ["apa aja jenis atmnya", "macam-macam atmnya apa aja?", "ada pilihan apa aja?", "yang murah atm jenis apa", "tawarin jenis atmnya dong", "atm yang bagus untuk mahasiswa apa min"],
+     "responses": ["ATM yang kami tawarkan ada 2 jenis ya kak. Silver dan Gold. Yang silver limit transaksinya 10juta sedangkan yang gold limit transaksinya 50 juta.", "Silahkan pilih sesuai kebutuhan kamu ya kak. Kami ada 2 pilihan ATM, Siver dan Gold, Yang silver limit transaksinya 10juta sedangkan yang gold limit transaksinya 50 juta", "Kami ada 2 jenis atm nih yang bisa kakak pilih. Silver & Gold. Yang gold limitnya transaksinya 10juta yaa. Kalau butuh yang limitnya lebih besar silahkan pilih gol, limit transaksinya 50 juta ya kak."]
+    },
+    {
+		"tag": "lokasi",
+     "patterns": ["lokasi kantor dimana min", "bisa buka rekening dimana", "bisa dateng kelokasi langsung", "bisa ke kantor langsung min?", "bisa ketemu langsung min?", "kantor dimana?", "lokasi dimana?", "Kantor resmi dimana?", "boleh ketemu langsung?"],
+     "responses": ["Lokasi kami saat ini ada di dua kota ya kak, jakarta dan bandung", "Kakak bisa datang langsung ke lokasi kami di jakarta dan Bandung ya Kak", "Untuk kantor saat ini kami ada di dua kota besar ya kak. Bandung dan Jakarta"]
+    },
+    {
+		"tag": "website",
+    "patterns": ["ada website resminya?", "web resminya apa min", "info lengkapnya dimana", "bisa akses dimana", "info lengkap perusahaan dimana min?", "apakah ada webnya", "profile bank nya dimana ya?","spill websitenya kak?"],
+    "responses": ["Silahkan kunjungi website resmi kami di www.banktoyib.com", "website resmi kami www.banktoyib.com ya kak.", "satu-satunya website kami www.banktoyib.com ya kak"]
+    }
+]
+}
 	
