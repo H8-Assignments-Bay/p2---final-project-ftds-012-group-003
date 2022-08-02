@@ -19,5 +19,5 @@ If you know here i am Chass I'm a chatbot, I was created to help hacktiv banks t
 
 ## Domain Expert
 Credit by:
-**- Wahyudi** <a target="_blank" href="https://icons8.com/icon/Fff3Mehbvfz2/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-**- Enggar Kristian** <a target="_blank" href="https://icons8.com/icon/Fff3Mehbvfz2/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+..* ![**Wahyudi**](https://www.linkedin.com/in/wahyudi-sujono-2014a91a6/) <img width=50 alt=linkedin src="https://icons8.com/icon/Fff3Mehbvfz2/linkedin"> 
+..* ![**Enggar Kristian**](https://www.linkedin.com/in/enggar-kristian-b0aa52134/) <img width=50 alt=linkedin src="https://icons8.com/icon/Fff3Mehbvfz2/linkedin"> 
