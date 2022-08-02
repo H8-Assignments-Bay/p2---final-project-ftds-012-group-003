@@ -19,8 +19,9 @@ If you know here i am Chass I'm a chatbot, I was created to help hacktiv banks t
 
 ## Domain Expert
 
-Here I will tell you 2 very great people who became the founders of Chass in the first place, try visiting them from their LinkedIn and Github profiles:
+Here I will tell you 2 very great people who became the founders of Chass in the first place, try visiting them from their <img width=30 alt=linkedin src=https://user-images.githubusercontent.com/103250002/182371307-5ff73ee7-5957-498b-ab9e-b1c88aaa5235.svg> and <img width=30 alt=github alt=https://user-images.githubusercontent.com/103250002/182372179-0954a140-ddbb-489d-83a7-51c715d7ae6d.svg> profiles:
 
-- [Wahyudi](https://www.linkedin.com/in/wahyudi-sujono-2014a91a6/)  -  <img width=30 alt=linkedin src=https://user-images.githubusercontent.com/103250002/182371307-5ff73ee7-5957-498b-ab9e-b1c88aaa5235.svg>
 
-- [Enggar Kristian](https://www.linkedin.com/in/enggar-kristian-b0aa52134/)  -  <img width=30 alt=linkedin src=https://user-images.githubusercontent.com/103250002/182371307-5ff73ee7-5957-498b-ab9e-b1c88aaa5235.svg>
+- [Wahyudi](https://www.linkedin.com/in/wahyudi-sujono-2014a91a6/) 
+
+- [Enggar Kristian](https://www.linkedin.com/in/enggar-kristian-b0aa52134/)
