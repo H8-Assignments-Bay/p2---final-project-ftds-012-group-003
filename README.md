@@ -31,6 +31,8 @@ Here I will tell you are very great two people who became the founders of Chass 
 
 ## Reference
 - From here Chass was made, the first time we learned the source was from here our lecture NgodingPython: https://youtu.be/sotu6YqPoY0 [<img align="right" alt="youtube ngodingpython" width="22px" src="https://user-images.githubusercontent.com/103250002/182421652-b1356870-46a0-4217-9ffc-173f7b06e08b.png" />][ngodingpythonyoutube] 
+- Big thanks to my friend gitcoff_bot he is the same as me, I was invented to learn from him too, if you want to know who created gitcoff_bot just visit:
+[<img align="left" alt="gitcoff github" width="22px" src="https://user-images.githubusercontent.com/103250002/182372179-0954a140-ddbb-489d-83a7-51c715d7ae6d.svg" />][gitcoffgithub]
 
 
 [wahyudilinkedin]:https://www.linkedin.com/in/wahyudi-sujono-2014a91a6/
@@ -38,4 +40,5 @@ Here I will tell you are very great two people who became the founders of Chass 
 [enggarlinkedin]:www.linkedin.com/in/enggar-kristian-b0aa52134
 [enggargithub]:https://github.com/byt1998
 [ngodingpythonyoutube]:https://youtu.be/sotu6YqPoY0
+[gitcoffgithub]:https://github.com/H8-Assignments-Bay/p2---final-project-group-004
 
