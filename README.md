@@ -22,14 +22,14 @@ If you know here i am Chass I'm a chatbot, I was created to help hacktiv banks t
 Here I will tell you are very great two people who became the founders of Chass in the first place, try visiting them from their <img width=30 alt=icons8-linkedin src=https://user-images.githubusercontent.com/103250002/182405954-d5ae3cda-d74c-43a5-b995-8220005d151f.gif> and <img width=30 alt=github src=https://user-images.githubusercontent.com/103250002/182372179-0954a140-ddbb-489d-83a7-51c715d7ae6d.svg> profiles:
 
 - **Wahyudi** 
-[<img align="left" alt="wahyudi" width="22px" src="https://user-images.githubusercontent.com/103250002/182405954-d5ae3cda-d74c-43a5-b995-8220005d151f.gif" />][linkedin] 
-[<img align="left" alt="wahyudi" width="22px" src=https://user-images.githubusercontent.com/103250002/182372179-0954a140-ddbb-489d-83a7-51c715d7ae6d.svg" />][github]
+[<img align="left" alt="wahyudi linkedin" width="22px" src="https://user-images.githubusercontent.com/103250002/182405954-d5ae3cda-d74c-43a5-b995-8220005d151f.gif" />][wahyudilinkedin] 
+[<img align="left" alt="wahyudi github" width="22px" src="https://user-images.githubusercontent.com/103250002/182372179-0954a140-ddbb-489d-83a7-51c715d7ae6d.svg" />][wahyudigithub]
 
 - **Enggar Kristian** (https://www.linkedin.com/in/enggar-kristian-b0aa52134/)
 
 ## Reference
 - From here Chass was made, the first time we learned the source was from here our lecture NgodingPython: https://youtu.be/sotu6YqPoY0
 
-[linkedin]:https://www.linkedin.com/in/wahyudi-sujono-2014a91a6/
-[github]:https://github.com/wahyudisujono
+[wahyudilinkedin]:https://www.linkedin.com/in/wahyudi-sujono-2014a91a6/
+[wahyudigithub]:https://github.com/wahyudisujono
 
