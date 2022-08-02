@@ -15,4 +15,9 @@ If you know here i am Chass I'm a chatbot, I was created to help hacktiv banks t
 3. Then this Chass is made from the **Multinomial Naive Bayes Machine Learning** model <img width=50 alt=scikitlearn src=https://user-images.githubusercontent.com/103250002/182362975-499612fa-6c55-4e2a-869b-e1046a073edd.svg> so that it can interact with hacktiv bank customers by 2 great people, graduates from Bootcamp Fulltime Data Science Hactiv8.
 4. After that, we chatted intensely so that we got solutions to the problems they were facing and eased the burden of time for customers who had to visit the teller or customer service bank.
 
+## Still curious? Let's make a simulation!
 
+## Domain Expert
+Credit by:
+**- Wahyudi** <a target="_blank" href="https://icons8.com/icon/Fff3Mehbvfz2/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+**- Enggar Kristian** <a target="_blank" href="https://icons8.com/icon/Fff3Mehbvfz2/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
