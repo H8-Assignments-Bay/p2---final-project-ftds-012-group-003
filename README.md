@@ -1,5 +1,5 @@
 
-<h1 align="center">Complaint Handle Assistant (Chass) - Banking Chatbot</h1>
+<h1 align="center">Complaint Handle Assistant (Chass) - Hacktiv Bank Chatbot</h1>
 <p align="center"><img width="550" alt=logo chass src=https://user-images.githubusercontent.com/103250002/182339940-4128b6f8-4325-4852-a49c-4568fc3e4b69.png></p>
 
 # Background
