@@ -28,6 +28,5 @@ Here I will tell you are very great two people who became the founders of Chass 
 ## Reference
 - From here Chass was made, the first time we learned the source was from here our lecture NgodingPython: https://youtu.be/sotu6YqPoY0
 
-<a href="https://stackoverflow.com/"><img src="RELATIVE_PATH_TO_IMAGE></img></a>
 
 
