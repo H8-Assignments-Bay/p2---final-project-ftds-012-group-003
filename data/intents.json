@@ -6,8 +6,10 @@
         "Hai",
         "Halo",
         "Hello",
+        "helo",
         "Hei",
         "Hy",
+        "hi",
         "Oi",
         "Woy",
         "Woi",
@@ -266,17 +268,17 @@
         "Makasih banyak jawabannya"
       ],
       "responses": [
-        "Sampai jumpa lagi lain waktu",
+        "Baik Terima Kasih! Sampai jumpa lagi lain waktu",
         "Jika ada pertanyaan lain atau ada keluhan lain silahkan hubungi Chass kembali ya, Terima kasih! :)",
-        "See you!",
-        "Bye!",
-        "Oke baik, semoga harimu menyenangkan!",
+        "Thank you and See you!",
+        "Thank You! Bye!",
+        "Oke baik terima kasih, semoga harimu menyenangkan!",
         "Baik, terima kasih sudah menguhubungi Chass",
         "Oke, terima kasih sudah bertanya",
         "Terima kasih sudah menggunakan layanan Chass",
-        "Sampai jumpa, semoga sehat selalu",
-        "Jangan sungkan untuk bertanya kembali lagi kakak, see you!",
-        "Sampai bertemu kembali di lain waktu!"
+        "Terima kasih kak! Sampai jumpa, semoga sehat selalu",
+        "Makasih ya kak udah kepoin aku hehehe. Jangan sungkan untuk bertanya kembali lagi kakak, see you!",
+        "Terima kasih kak! Sampai bertemu kembali di lain waktu!"
       ]
     },
     {
@@ -429,8 +431,8 @@
       ],
       "responses": [
         "Unduh aplikasi kami gampang kok! Bapak atau ibu bisa mengunjungi play store atau app store, ketik bank thoyib, lalu tinggal unduh deh!",
-        "Aplikasi bisa di download di play store atau app store ya kak dengan nama aplikasinya bank thoyib, atau bisa klik link ini https:/www.banktoyib.com/aplikasi",
-        "Aplikasi sudah tersedia ya kak. Bisa klik link https:/www.banktoyib.com/aplikasi untuk download aplikasinya",
+        "Aplikasi bisa di download di play store atau app store ya kak dengan nama aplikasinya bank thoyib, atau bisa klik link ini https:/www.bankhacktiv.com/aplikasi",
+        "Aplikasi sudah tersedia ya kak. Bisa klik link https:/www.bankhacktiv.com/aplikasi untuk download aplikasinya",
         "Aplikasi kami selalu update untuk inovasi terbaru, jangan khawatir, size aplikasi kami sedikit kok cocok deh untuk semua pengguna gadget."
       ]
     },
@@ -619,6 +621,16 @@
         "informasi",
         "ga ngerti",
         "tidak paham",
+        "bingung",
+        "bingung ah",
+        "gatau bingung",
+        "gatau pusing",
+        "gatau pusing ah",
+        "pusing",
+        "ga ngerti",
+        "tidak ngerti",
+        "ga mengerti",
+        "tidak mengerti",
         "aduh susah ngerti",
         "informasi lengkap dimana si?",
         "Website isinya ada apa aja?",
@@ -671,9 +683,9 @@
         "spill websitenya kak?"
       ],
       "responses": [
-        "Silahkan kunjungi website resmi kami di www.banktoyib.com",
-        "Mau cari-cari tau tentang kami, kunjungi website resmi kami www.banktoyib.com ya kak.",
-        "satu-satunya website kami www.banktoyib.com ya kak, ada pengalaman luar biasa jika kaka mengunjunginya."
+        "Silahkan kunjungi website resmi kami di www.bankhacktiv.com",
+        "Mau cari-cari tau tentang kami, kunjungi website resmi kami www.bankhacktiv.com ya kak.",
+        "satu-satunya website kami www.bankhacktiv.com ya kak, ada banyak informasi jika kakak mengunjunginya."
       ]
     }
   ]
