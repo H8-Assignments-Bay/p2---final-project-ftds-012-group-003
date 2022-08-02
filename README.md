@@ -25,3 +25,6 @@ Here I will tell you are very great two people who became the founders of Chass 
 - [Wahyudi](https://www.linkedin.com/in/wahyudi-sujono-2014a91a6/) 
 
 - [Enggar Kristian](https://www.linkedin.com/in/enggar-kristian-b0aa52134/)
+
+## Reference
+- From here Chass was made, the first time we learned the source was from here our lecture NgodingPython: https://youtu.be/sotu6YqPoY0
