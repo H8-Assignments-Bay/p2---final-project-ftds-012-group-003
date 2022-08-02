@@ -25,15 +25,19 @@ Here I will tell you are very great two people who became the founders of Chass 
 [<img align="left" alt="wahyudi linkedin" width="22px" src="https://user-images.githubusercontent.com/103250002/182405954-d5ae3cda-d74c-43a5-b995-8220005d151f.gif" />][wahyudilinkedin] 
 [<img align="left" alt="wahyudi github" width="22px" src="https://user-images.githubusercontent.com/103250002/182372179-0954a140-ddbb-489d-83a7-51c715d7ae6d.svg" />][wahyudigithub]
 
-- **Enggar Kristian** (https://www.linkedin.com/in/enggar-kristian-b0aa52134/)
+- **Enggar Kristian** 
 [<img align="left" alt="enggar linkedin" width="22px" src="https://user-images.githubusercontent.com/103250002/182405954-d5ae3cda-d74c-43a5-b995-8220005d151f.gif" />][enggarlinkedin] 
 [<img align="left" alt="enggar github" width="22px" src="https://user-images.githubusercontent.com/103250002/182372179-0954a140-ddbb-489d-83a7-51c715d7ae6d.svg" />][enggargithub]
 
 ## Reference
-- From here Chass was made, the first time we learned the source was from here our lecture NgodingPython: https://youtu.be/sotu6YqPoY0
+- From here Chass was made, the first time we learned the source was from here our lecture NgodingPython: [<alt="youtube ngodingpython" width="22px" src="https://user-images.githubusercontent.com/103250002/182421652-b1356870-46a0-4217-9ffc-173f7b06e08b.png" />][ngodingpythonyoutube] 
+
+![youtube]()
+
 
 [wahyudilinkedin]:https://www.linkedin.com/in/wahyudi-sujono-2014a91a6/
 [wahyudigithub]:https://github.com/wahyudisujono
 [enggarlinkedin]:www.linkedin.com/in/enggar-kristian-b0aa52134
 [enggargithub]:https://github.com/byt1998
+[ngodingpythonyoutube]:https://youtu.be/sotu6YqPoY0
 
