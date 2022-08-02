@@ -19,7 +19,7 @@ If you know here i am Chass I'm a chatbot, I was created to help hacktiv banks t
 
 ## Domain Expert
 
-Here I will tell you are very great two people who became the founders of Chass in the first place, try visiting them from their <img width=30 alt=linkedin src=https://user-images.githubusercontent.com/103250002/182374355-c57a19fb-77c8-4aae-8025-09dfb6936135.svg> and <img width=30 alt=github src=https://user-images.githubusercontent.com/103250002/182372179-0954a140-ddbb-489d-83a7-51c715d7ae6d.svg> profiles:
+Here I will tell you are very great two people who became the founders of Chass in the first place, try visiting them from their <img width=30 alt=icons8-linkedin src=https://user-images.githubusercontent.com/103250002/182405954-d5ae3cda-d74c-43a5-b995-8220005d151f.gif> and <img width=30 alt=github src=https://user-images.githubusercontent.com/103250002/182372179-0954a140-ddbb-489d-83a7-51c715d7ae6d.svg> profiles:
 
 - [Wahyudi](https://www.linkedin.com/in/wahyudi-sujono-2014a91a6/) 
 
@@ -27,3 +27,4 @@ Here I will tell you are very great two people who became the founders of Chass 
 
 ## Reference
 - From here Chass was made, the first time we learned the source was from here our lecture NgodingPython: https://youtu.be/sotu6YqPoY0
+
