@@ -1,6 +1,12 @@
 
-<h1 align="center">Complaint Handle Assistant (Chass) - Hacktiv Bank Chatbot</h1>
+<h1 align="center">**Complaint Handle Assistant (Chass) - Hacktiv Bank Chatbot**</h1>
 <p align="center"><img width="550" alt=logo chass src=https://user-images.githubusercontent.com/103250002/182339940-4128b6f8-4325-4852-a49c-4568fc3e4b69.png></p>
+
+<h3 align="center">Created by:</h3>
+<h2 align="center">[Wahyudi](https://www.linkedin.com/in/wahyudi-sujono-2014a91a6/)</h2>
+<h2 align="center">[Enggar Kristian](https://www.linkedin.com/in/enggar-kristian-b0aa52134/)</h2>
+
+           
 
 # Background
 
