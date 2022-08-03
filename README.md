@@ -37,6 +37,6 @@ Here I will tell you are very great two people who became the founders of Chass 
 
 [wahyudilinkedin]:https://www.linkedin.com/in/wahyudi-sujono-2014a91a6/
 [wahyudigithub]:https://github.com/wahyudisujono
-[enggarlinkedin]:www.linkedin.com/in/enggar-kristian-b0aa52134
+[enggarlinkedin]:https://www.linkedin.com/in/enggar-kristian-b0aa52134/
 [enggargithub]:https://github.com/byt1998
 
