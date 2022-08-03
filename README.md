@@ -16,8 +16,17 @@ If you know here i am Chass I'm a chatbot, I was created to help hacktiv banks t
 4. After that, we chatted intensely so that we got solutions to the problems they were facing and eased the burden of time for customers who had to visit the teller or customer service bank.
 
 ## Still curious? Let's make a simulation!
+### From this:
+### To this:
+ <img align="center" alt=convo1 src=https://user-images.githubusercontent.com/103250002/182530643-cf71df0d-ee75-4dd3-bf93-ad0edfa32431.png>
+ <img align="center" alt=convo2 src=https://user-images.githubusercontent.com/103250002/182530929-2b17a54f-8acf-4127-b2df-be46d037e1af.png>
+ <img align="center" alt=convo3 src=https://user-images.githubusercontent.com/103250002/182530934-173a77db-f661-4f61-a12d-e502849ab359.png>
+ <img align="center" alt=convo4 src=https://user-images.githubusercontent.com/103250002/182530919-a8568cc5-d1b1-42fa-9576-57b80068a0b3.png>
+ <img align="center" alt=convo5 src=https://user-images.githubusercontent.com/103250002/182530924-8d61a4b9-01a3-4f40-a292-25c48ed8fe02.png>
+ <img align="center" alt=convo6 src=https://user-images.githubusercontent.com/103250002/182530925-b3d562ca-cd61-4228-abbd-4eece0cbd376.png>
 
-## Domain Expert
+## Domain Expert!
+
 
 Here I will tell you are very great two people who became the founders of Chass in the first place, try visiting them from their <img width=30 alt=icons8-linkedin src=https://user-images.githubusercontent.com/103250002/182405954-d5ae3cda-d74c-43a5-b995-8220005d151f.gif> and <img width=30 alt=github src=https://user-images.githubusercontent.com/103250002/182372179-0954a140-ddbb-489d-83a7-51c715d7ae6d.svg> profiles:
 
