@@ -17,6 +17,9 @@ If you know here i am Chass I'm a chatbot, I was created to help hacktiv banks t
 
 ## Still curious? Let's make a simulation!
 ### From this:
+<p align="center"><img width="200" alt=Tweet src=https://user-images.githubusercontent.com/103250002/182644511-31682f0e-bb07-48b5-9da1-b29c974bb945.png></p>
+<p align="center"><strong>Tweet</strong>, Our client has detected this tweet, that he is complaining to hacktiv bank.</p>
+
 ### To this:
  <p align="center"><img width="200" alt=convo1 src=https://user-images.githubusercontent.com/103250002/182530643-cf71df0d-ee75-4dd3-bf93-ad0edfa32431.png></p>
 <p align="center"><strong>Convo1</strong>, Our client tried to greet me, of course Chass replied happily.</p>
