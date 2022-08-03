@@ -18,13 +18,13 @@ If you know here i am Chass I'm a chatbot, I was created to help hacktiv banks t
 ## Still curious? Let's make a simulation!
 ### From this:
 ### To this:
- <p align="center"><img width="550" alt=convo1 src=https://user-images.githubusercontent.com/103250002/182530643-cf71df0d-ee75-4dd3-bf93-ad0edfa32431.png></p>
- <p align="center"><img width="550" alt=convo2 src=https://user-images.githubusercontent.com/103250002/182530929-2b17a54f-8acf-4127-b2df-be46d037e1af.png></p>
- <p align="center"><img width="550" alt=convo3 src=https://user-images.githubusercontent.com/103250002/182530934-173a77db-f661-4f61-a12d-e502849ab359.png></p>
- <p align="center"><img width="550" alt=convo4 src=https://user-images.githubusercontent.com/103250002/182530919-a8568cc5-d1b1-42fa-9576-57b80068a0b3.png></p>
- <p align="center"><img width="550" alt=convo5 src=https://user-images.githubusercontent.com/103250002/182530924-8d61a4b9-01a3-4f40-a292-25c48ed8fe02.png></p>
- <p align="center"><img width="550" alt=convo6 src=https://user-images.githubusercontent.com/103250002/182530925-b3d562ca-cd61-4228-abbd-4eece0cbd376.png></p>
- <p align="center"><img width="550" alt=convo7 src=https://user-images.githubusercontent.com/103250002/182531408-ef282ffd-5cf4-471d-9a1d-4ed77dc2a09c.png></p>
+ <p align="center"><img width="200" alt=convo1 src=https://user-images.githubusercontent.com/103250002/182530643-cf71df0d-ee75-4dd3-bf93-ad0edfa32431.png></p>
+ <p align="center"><img width="200" alt=convo2 src=https://user-images.githubusercontent.com/103250002/182530929-2b17a54f-8acf-4127-b2df-be46d037e1af.png></p>
+ <p align="center"><img width="200" alt=convo3 src=https://user-images.githubusercontent.com/103250002/182530934-173a77db-f661-4f61-a12d-e502849ab359.png></p>
+ <p align="center"><img width="200" alt=convo4 src=https://user-images.githubusercontent.com/103250002/182530919-a8568cc5-d1b1-42fa-9576-57b80068a0b3.png></p>
+ <p align="center"><img width="200" alt=convo5 src=https://user-images.githubusercontent.com/103250002/182530924-8d61a4b9-01a3-4f40-a292-25c48ed8fe02.png></p>
+ <p align="center"><img width="200" alt=convo6 src=https://user-images.githubusercontent.com/103250002/182530925-b3d562ca-cd61-4228-abbd-4eece0cbd376.png></p>
+ <p align="center"><img width="200" alt=convo7 src=https://user-images.githubusercontent.com/103250002/182531408-ef282ffd-5cf4-471d-9a1d-4ed77dc2a09c.png></p>
 
 ## Domain Expert!
 
