@@ -19,19 +19,19 @@ If you know here i am Chass I'm a chatbot, I was created to help hacktiv banks t
 ### From this:
 ### To this:
  <p align="center"><img width="200" alt=convo1 src=https://user-images.githubusercontent.com/103250002/182530643-cf71df0d-ee75-4dd3-bf93-ad0edfa32431.png></p>
-<p align="center"><strong>Convo1</strong> Our client tried to greet me, of course Chass replied happily.</p>
+<p align="center"><strong>Convo1</strong>, Our client tried to greet me, of course Chass replied happily.</p>
  <p align="center"><img width="200" alt=convo2 src=https://user-images.githubusercontent.com/103250002/182530929-2b17a54f-8acf-4127-b2df-be46d037e1af.png></p>
-<h4 align="center">**Convo2** Our client ask about the location, and Chass give the official website for more information.</h4>
+<p align="center"><strong>Convo2</strong>, Our client ask about the location, and Chass give the official website for more information.</p>
  <p align="center"><img width="200" alt=convo3 src=https://user-images.githubusercontent.com/103250002/182530934-173a77db-f661-4f61-a12d-e502849ab359.png></p>
-<h4 align="center">**Convo3** The first time our client expressed his complaint, then Chass of course tried to find a solution.</h4>
+<p align="center"><strong>Convo3</strong>, The first time our client expressed his complaint, then Chass of course tried to find a solution.</p>
  <p align="center"><img width="200" alt=convo4 src=https://user-images.githubusercontent.com/103250002/182530919-a8568cc5-d1b1-42fa-9576-57b80068a0b3.png></p>
-<h4 align="center">**Convo4** Absolutely, Chass has a solution for replacing the latest ATM card, just chat with Chass.</h4>
+<p align="center"><strong>Convo4</strong>, Absolutely, Chass has a solution for replacing the latest ATM card, just chat with Chass.</p>
  <p align="center"><img width="200" alt=convo5 src=https://user-images.githubusercontent.com/103250002/182530924-8d61a4b9-01a3-4f40-a292-25c48ed8fe02.png></p>
-<h4 align="center">**Convo5** They just call the keyword, and then Chass will process it.</h4> 
+<p align="center"><strong>Convo5</strong>, They just call the keyword, and then Chass will process it.</p> 
  <p align="center"><img width="200" alt=convo6 src=https://user-images.githubusercontent.com/103250002/182530925-b3d562ca-cd61-4228-abbd-4eece0cbd376.png></p>
-<h4 align="center">**Convo6** Our client fills in the personal data provided by me, and after the data has been filled in, I will send a very confidential OTP code through the cellphone number, then mention it again in the chat along with the customer's account number.</h4>
+<p align="center"><strong>Convo6</strong>, Our client fills in the personal data provided by me, and after the data has been filled in, I will send a very confidential OTP code through the cellphone number, then mention it again in the chat along with the customer's account number.</p>
  <p align="center"><img width="200" alt=convo7 src=https://user-images.githubusercontent.com/103250002/182531408-ef282ffd-5cf4-471d-9a1d-4ed77dc2a09c.png></p>
-<h4 align="center">**Convo7** Well, the client has been given a solution by getting the newest ATM card which is fully assisted by me, and waiting a few days for the ATM card to arrive at the client.</h4>
+<p align="center"><strong>Convo7</strong>, Well, the client has been given a solution by getting the newest ATM card which is fully assisted by me, and waiting a few days for the ATM card to arrive at the client.</p>
 
 ## Domain Expert!
 
