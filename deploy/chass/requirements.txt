@@ -1,0 +1,11 @@
+streamlit
+tweepy
+sklearn
+streamlit_lottie
+numpy
+pandas
+scipy
+plotly
+matplotlib
+seaborn
+Sastrawi
